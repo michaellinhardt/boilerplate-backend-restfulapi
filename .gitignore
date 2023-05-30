@@ -1,0 +1,5 @@
+# Files related to development only
+.vscode
+.DS_Store
+node_modules
+dist
