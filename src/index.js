@@ -5,7 +5,5 @@ import 'regenerator-runtime/runtime'
 import config from './config'
 
 // import Application from '@michaellinhardt/restfulapi'
-
 // const application = new Application()
-
 // export default application
