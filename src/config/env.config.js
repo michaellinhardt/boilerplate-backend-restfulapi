@@ -2,4 +2,4 @@ export const
 
 	HTTPLoggerMiddleware = true,
 
-	port = true
+	port = 4242
