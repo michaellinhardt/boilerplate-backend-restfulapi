@@ -10,7 +10,7 @@ class MyServer extends Application {
 
 		super()
 		this.test()
-		console.debug(this.config.fake.fakee)
+		console.debug(this.config.fake.fake)
 
 	}
 
