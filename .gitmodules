@@ -1,0 +1,3 @@
+[submodule "npm-backend-restfulapi"]
+	path = npm-backend-restfulapi
+	url = https://github.com/michaellinhardt/npm-backend-restfulapi
